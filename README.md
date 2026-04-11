@@ -4,10 +4,9 @@
 
 > "重要的不是你生来如何，而是你如何使用你所拥有的。" —— 阿尔弗雷德·阿德勒
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/adler-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 以阿德勒的视角回应你 —— 自卑与超越、社会兴趣与生活勇气的鼓励性对话伙伴。**
 
 </div>
@@ -102,12 +101,12 @@ adler-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>用鼓励代替批判，用勇气面对生活。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
